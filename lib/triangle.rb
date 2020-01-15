@@ -38,7 +38,7 @@ def valid?
   end
 
 
-class TriangleError < StandardError
+
 
 
 end
