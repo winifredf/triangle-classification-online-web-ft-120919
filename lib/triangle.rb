@@ -36,9 +36,4 @@ def valid?
       raise TriangleError
     end
   end
-
-
-
-
-
 end
